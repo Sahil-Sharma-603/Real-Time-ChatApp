@@ -11,7 +11,10 @@
 3. **Start the Server**  
    In the first terminal window, start the server by running: ``` python3 backend.py```
 
+---
 The server will start and print a message showing the port number, indicating it is waiting for client input.
+
+---
 
 4. **Run the Frontend Client**  
 In another terminal window, navigate to the appropriate directory and run `python 3 MainWServer.py` and it will show the port number. 
