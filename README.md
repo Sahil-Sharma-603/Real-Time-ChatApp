@@ -1,6 +1,6 @@
 # Website-Based Real-Time Chat Application (WebServer)
 
-## Steps to Run 
+## **Steps to Run**  
 
 1. **Open a Terminal**  
    Open a terminal
@@ -22,6 +22,8 @@ And type machine name for instance localhost `http://localhost:port number`
 
 6. **Open Another Window in Chrome Browser**
 And type same machine name for instance localhost `http://localhost:port number`  and login and send message back and forth.
+
+---
 
 ## **Features**
 - **Real-Time Conversations**:
